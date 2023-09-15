@@ -3,7 +3,6 @@ import { PayPalButtons, PayPalScriptProvider } from "@paypal/react-paypal-js"
 //Ref: https://www.youtube.com/watch?v=ouqcQunk0fU  FAZTWEB
 //https://www.sandbox.paypal.com/ comprueba pagos
 function HomePage() {
-
 //console.log(process.env.NEXT_PUBLIC_PAYPAL_CLIENT_ID)
 
   return (
